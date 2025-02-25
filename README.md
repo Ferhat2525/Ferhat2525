@@ -3,7 +3,6 @@ I am studying at Dokuz Eylül University, Department of Computer Programming. I 
 
 
 ## 🌐 Socials:
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferhat-y%C4%B1lmaz-51624a295/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ferhatyylmz@gmail.com)
 
